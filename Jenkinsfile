@@ -6,7 +6,7 @@ pipeline {
             steps {
 
                 https://github.com/NareenkumarM/KumarNareen
-                {
+                    }
             
         }
         stage('Build') {
